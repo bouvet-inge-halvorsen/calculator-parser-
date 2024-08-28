@@ -1,0 +1,5 @@
+.vscode/*
+Calculator/bin/*
+Calculator/obj/*
+Calculator.Test/bin/*
+Calculator.Test/obj/*
